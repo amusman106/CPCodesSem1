@@ -3,6 +3,7 @@ Name: Ansari Mohammed Usman
 UIN: 241P054
 Roll No: 49
 Div: C  (C3)
+Class: FE (Comp Engg)
 
 - Exp1Task1: To print your name, age, UIN, class, div on the screen.
 - Exp1Task2: To get students PCM marks from the user and find average.
